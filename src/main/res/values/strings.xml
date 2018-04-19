@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="menu_add_button">Add Person</string>
+    <string name="empty_string" />
+    <string name="menu_add_person_save">Save</string>
+    <string name="add_person_name">Name</string>
+    <string name="add_person_last_name">Last name</string>
+    <string name="add_person_birthday">Birthday</string>
+    <string name="delete_person">Del</string>
+    <string name="title_activity_person_list">PersonList</string>
+    <string name="film_image_description">Film Image</string>
+    <string name="person_image_description">person image</string>
+
+
+</resources>
